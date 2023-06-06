@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873993308471",
+    "firebase_url": "https://todo-voice-dev.firebaseio.com",
+    "project_id": "todo-voice-dev",
+    "storage_bucket": "todo-voice-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873993308471:android:d68ca47f9f4797758db2b2",
+        "android_client_info": {
+          "package_name": "com.nxb.todovoice.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873993308471-jgp4ushej555lkj1ndv7tiq8s5ncdmb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOk4weBTwNlsKrNHZ0Xsp6YLA_1La7edY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873993308471-jgp4ushej555lkj1ndv7tiq8s5ncdmb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
