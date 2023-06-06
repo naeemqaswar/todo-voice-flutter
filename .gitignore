@@ -45,3 +45,4 @@ app.*.map.json
 pubspec.lock
 android/app/release/
 .vscode
+android/app/google-services.json
